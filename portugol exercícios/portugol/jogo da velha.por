@@ -92,9 +92,9 @@ programa {
       } 
     }
     se (ganhou == 1) {
-      escreva ("parabéns! vitória o jogador 2")
+      escreva ("parabÃ©ns! vitÃ³ria o jogador 2")
     } senao se (ganhou == 2) {
-      escreva ("parabéns! vitória ao jogador 1")
+      escreva ("parabÃ©ns! vitÃ³ria ao jogador 1")
     } senao {
       escreva ("deu velha")
     }
