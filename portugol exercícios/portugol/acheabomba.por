@@ -49,7 +49,7 @@ programa {
           escreva (x," ")
         }
       escreva ("\n")
-      escreva ("Parabéns ! Você achou a bomba")
+      escreva ("ParabÃ©ns ! VocÃª achou a bomba")
       ganhou = 1
       pare
       } senao {
@@ -93,3 +93,5 @@ programa {
     }
   }
 }
+
+
