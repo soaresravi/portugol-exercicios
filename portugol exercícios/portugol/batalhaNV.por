@@ -30,9 +30,9 @@ programa {
 
     faca {
       para (y=1; y<=4; y++) {
-        escreva ("\nadicione a posição do ",y,"° submarino. LINHA: ")
+        escreva ("\nadicione a posiÃ§Ã£o do ",y,"Â° submarino. LINHA: ")
         leia (linha)
-        escreva ("adicione a posição do ",y,"° submarino. COLUNA: ")
+        escreva ("adicione a posiÃ§Ã£o do ",y,"Â° submarino. COLUNA: ")
         leia (coluna)
 
         se (coluna == 0) {
@@ -56,9 +56,9 @@ programa {
 
     faca {
       para (y=1; y<=3; y++) {
-        escreva ("\nadicione a posição do ",y,"° fragátas. LINHA: ")
+        escreva ("\nadicione a posiÃ§Ã£o do ",y,"Â° fragÃ¡tas. LINHA: ")
         leia (linha)
-        escreva ("adicione a posição do ",y,"° fragátas. COLUNA: ")
+        escreva ("adicione a posiÃ§Ã£o do ",y,"Â° fragÃ¡tas. COLUNA: ")
         leia (coluna)
 
         se (coluna == 0) {
@@ -85,9 +85,9 @@ programa {
 
     faca {
       para (y=1; y<=2; y++) {
-        escreva ("\nadicione a posição do ",y,"° destróier. LINHA: ")
+        escreva ("\nadicione a posiÃ§Ã£o do ",y,"Â° destrÃ³ier. LINHA: ")
         leia (linha)
-        escreva ("adicione a posição do ",y,"° destróier. COLUNA: ")
+        escreva ("adicione a posiÃ§Ã£o do ",y,"Â° destrÃ³ier. COLUNA: ")
         leia (coluna)
 
         se (coluna == 0) {
@@ -116,9 +116,9 @@ programa {
     escreva ("\n")
 
     faca {
-      escreva ("\nadicione a posição do porta avião. LINHA: ")
+      escreva ("\nadicione a posiÃ§Ã£o do porta aviÃ£o. LINHA: ")
       leia (linha)
-      escreva ("adicione a posição do porta avião. COLUNA: ")
+      escreva ("adicione a posiÃ§Ã£o do porta aviÃ£o. COLUNA: ")
       leia (coluna)
 
       se (coluna == 0) {
@@ -148,6 +148,7 @@ programa {
 
     escreva ("\n")
     
-    escreva("parabéns! vc encerrou o jogo")
+    escreva("parabÃ©ns! vc encerrou o jogo")
   }  
 }
+
